@@ -1,2 +1,2 @@
 # wolfpup
-Scalable 3d. Printer
+Scalable 3D Printer
